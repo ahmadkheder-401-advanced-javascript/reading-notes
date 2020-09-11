@@ -3,8 +3,8 @@
 | Task  |  Link |
 |---|---|
 | | [Read 1](-----------------------)  |
-|| [Read 2](-------------) |
-|| [Read 3](--------------------- |
+|| [Read 2](https://github.com/ahmadkheder-401-advanced-javascript/reading-notes/blob/master/read2.md) |
+|| [Read 3](https://github.com/ahmadkheder-401-advanced-javascript/reading-notes/blob/master/read3.md)|
 | |[Read 4](------------------------|
 | |[Read 5](---------------------------------------)|
 | |[Read 6](-----------------------------)|
