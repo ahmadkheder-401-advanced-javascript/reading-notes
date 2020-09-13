@@ -4,8 +4,8 @@
 |---|---|
 | | [Read 1](-----------------------)  |
 || [Read 2](https://ahmadkheder-401-advanced-javascript.github.io/reading-notes/read2) |
-|| [Read 3](https://ahmadkheder-401-advanced-javascript.github.io/reading-notes/read3)|
-| |[Read 4](------------------------)|
+|| [Read 3](https://github.com/ahmadkheder-401-advanced-javascript/reading-notes/blob/master/read3.md)|
+| |[Read 4](https://github.com/ahmadkheder-401-advanced-javascript/reading-notes/blob/master/read3.md)|
 | |[Read 5](---------------------------------------)|
 | |[Read 6](-----------------------------)|
 |  |[Read 7](-----------------------------------------------)|
