@@ -9,7 +9,7 @@
 | |[Read 5](https://github.com/ahmadkheder-401-advanced-javascript/reading-notes/blob/master/read5.md)|
 | |[Read 6](https://github.com/ahmadkheder-401-advanced-javascript/reading-notes/blob/master/read6.md)|
 |  |[Read 7](https://github.com/ahmadkheder-401-advanced-javascript/reading-notes/blob/master/read7.md)|
-|  |[Read 8](-------------------------------------------)|
+|  |[Read 8](https://github.com/ahmadkheder-401-advanced-javascript/reading-notes/blob/master/read8.md)|
 |  |[Read 9](-----------------------------)|
 |  |[Read 10](----------------------------)|
 |  |[Read 11](-------------------------------------)|
