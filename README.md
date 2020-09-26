@@ -17,3 +17,4 @@
 |  |[Read 13](https://github.com/ahmadkheder-401-advanced-javascript/reading-notes/blob/master/read13.md)|
 |  |[Read 14](https://github.com/ahmadkheder-401-advanced-javascript/reading-notes/blob/master/read14.md)|
 |  |[Read 15](https://github.com/ahmadkheder-401-advanced-javascript/reading-notes/blob/master/read15.md)|
+|  |[Read 16](https://github.com/ahmadkheder-401-advanced-javascript/reading-notes/blob/master/read16.md)|
