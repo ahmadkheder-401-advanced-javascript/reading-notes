@@ -28,3 +28,4 @@
 |  |[Read 30](https://github.com/ahmadkheder-401-advanced-javascript/reading-notes/blob/master/read30.md)|
 |  |[Read 31](https://github.com/ahmadkheder-401-advanced-javascript/reading-notes/blob/master/read31.md)|
 |  |[Read 32](https://github.com/ahmadkheder-401-advanced-javascript/reading-notes/blob/master/read32.md)|
+|  |[Read 33](https://github.com/ahmadkheder-401-advanced-javascript/reading-notes/blob/master/read33.md)|
